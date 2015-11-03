@@ -1,0 +1,7 @@
+Snow CAN expansion
+==================
+
+2011-12-20 - AKHE Added pinlist for power and CAN.
+2011-11-10 - AKHE +/- changed position + is at 1,2,3
+2011-11-10 - AKHE CANH should be on pin 4 of RJ-45
+2011-11-10 - Rev B

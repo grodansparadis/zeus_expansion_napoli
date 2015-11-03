@@ -1,0 +1,18 @@
+Partlist exported from C:/Users/akhe/Documents/development/hardware_zeus/Ethernet/ethernet module/snow_expansion/can/expansion_can_rev_a.sch at 2011-10-03 22:11:18
+
+Part Value           Device            Package    Description                            Description              Supplier Partnumber         Price
+C1   100nF           C-EUC0805         C0805      CAPACITOR, European symbol             Avkopplingskondensator   Bejoken  522526             0,07 
+C2   100n            C-EUC0805         C0805      CAPACITOR, European symbol             100nF Cheramic capacitor Bejoken  522526             0,07 
+C4   15pF            C-EUC0805         C0805      CAPACITOR, European symbol             Kondensator              Bejoken  522419             0,11 
+C6   15pF            C-EUC0805         C0805      CAPACITOR, European symbol             Kondensator              Bejoken  522419             0,11 
+D1   NUP2105L        DIODE-2CA|ACSOT23 SOT23      Dual DIODE Cathode-Anode|Anode-Cathode Tansient protection      Digikey  NUP2105LT1GOSCT-ND 4    
+IC2  MCP2515         MCP2515           SO-18W                                            CAN Controller           Digikey  MCP2515-I/SO-ND    15,84
+IC3  SN65HVD232      MCP2551SN         SO-08      High Speed CAN tranceiver              3.3V CAN tranceiver      Digikey  296-15381-1-ND     26,05
+J1   22-23-2021      22-23-2021        22-23-2021 .100" (2.54mm) Center Header - 2 Pin   Enkel stiftlist          Digikey  SAM1035-50-ND      0,33 
+J2   A00-108-220-450 A00-108-220-450   RJ-45                                             RJ-45 connector          Digikey  151-1099-nd        5,6  
+JP1                  FE12-2            FE12-2     FEMALE HEADER                                                   Digikey  SAM1212-50-ND      6,18 
+Q1   12 MHZ          HC-49S            9C         Digikey 887-1050-1-nd                  Crystal                  Digikey  887-1053-1-ND      2,56 
+R1   10K             R-EU_R0805        R0805      RESISTOR, European symbol              Resistor                 Bejoken  454676             0,01 
+R2   10K             R-EU_R0805        R0805      RESISTOR, European symbol              Resistor                 Bejoken  454676             0,01 
+R3   120r            R-EU_R0805        R0805      RESISTOR, European symbol              Resistor                 Bejoken  454626             0.011
+R4   10K             R-EU_R0805        R0805      RESISTOR, European symbol              Resistor                 Bejoken  454676             0,01 
